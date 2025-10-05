@@ -1,0 +1,15 @@
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\bin\Debug\net9.0\ModuleTwoReview.exe
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\bin\Debug\net9.0\ModuleTwoReview.deps.json
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\bin\Debug\net9.0\ModuleTwoReview.runtimeconfig.json
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\bin\Debug\net9.0\ModuleTwoReview.dll
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\bin\Debug\net9.0\ModuleTwoReview.pdb
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.AssemblyInfoInputs.cache
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.AssemblyInfo.cs
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.csproj.CoreCompileInputs.cache
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.sourcelink.json
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.dll
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\refint\ModuleTwoReview.dll
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.pdb
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ModuleTwoReview.genruntimeconfig.cache
+C:\Users\cedin\OneDrive\Desktop\repos\ModuleTwoReview\ModuleTwoReview\obj\Debug\net9.0\ref\ModuleTwoReview.dll
